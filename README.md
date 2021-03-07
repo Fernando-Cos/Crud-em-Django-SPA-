@@ -1,2 +1,2 @@
 # Demo Crud Django(SPA).
-crud python django
+## Crud Demo utlizando o método spa (Single-Page Applications). 
