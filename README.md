@@ -1,2 +1,2 @@
-# crud-em-django
+# Demo Crud Djangp(SPA)
 crud python django
